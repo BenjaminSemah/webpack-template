@@ -6,7 +6,7 @@ With this template, you don't need to go through the ardous task of setting up w
 ## What is Webpack?
 "Webpack is an open-source JavaScript module bundler. It is made primarily for JavaScript, but it can transform front-end assets such as HTML, CSS, and images if the corresponding loaders are included." To learn more about webpack, [read the official documentation](https://webpack.js.org/guides/)
 
-## How to use this template.
+## How to use this template
 - Click on [Use This Template](https://github.com/BenjaminSemah/webpack-template/generate) to generate a copy.
 - Run `npm install webpack webpack-cli --save-dev`
 - Voila! Template is all set and ready.
